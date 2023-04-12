@@ -5,7 +5,7 @@
 <p>ผมชื่อ พีท และเป็นนักศึกษาวิศวกรรมศาสตร์ สาขาวิศวะคอมพิวเตอร์ ที่มหาวิทยาลัยสงขลานครินทร์</p>
 <p>ผมหวังว่าจะได้เรียนรู้และพัฒนาทักษะด้านคอมพิวเตอร์ให้ดียิ่งขึ้นเพื่อเป็นนักวิศวกรรมคอมพิวเตอร์ที่มีคุณภาพและสามารถให้ความช่วยเหลือในการพัฒนาสังคมได้</p>
 <p>ขอบคุณครับ</p>
-<h4>Hello everyone, my name is Pete and I am a computer engineering student at Songkhla Nakharin University. I hope to learn and improve my computer skills to become a quality computer engineer who can contribute to the development of society. Thank you.</h4>
+<h4>Hello everyone, my name is Peach and I am a computer engineering student at Prince of Songkla University. I hope to learn and improve my computer skills to become a quality computer engineer who can contribute to the development of society. Thank you.</h4>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opecho&label=Profile%20views&color=0e75b6&style=flat" alt="opecho" /> </p>
