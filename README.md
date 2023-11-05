@@ -22,7 +22,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nattnon chumrit" height="30" width="40" /></a>
 <a href="https://instagram.com/opech" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opech" height="30" width="40" /></a>
-<a href="https://youtube.com/opech](https://www.youtube.com/channel/UCJEUr528zDer7ldtW4j0Jqg" target="blank">
+<a href="https://www.youtube.com/channel/UCJEUr528zDer7ldtW4j0Jqg" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="opech" height="30" width="40" /></a>
 </p>
 
