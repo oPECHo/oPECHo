@@ -18,7 +18,7 @@
 ### 🌍 CONTACT 
 
 <p>
-<a href="https://www.facebook.com/nattnon.chumrit" target="blank">
+<a href="https://www.facebook.com/nattanon.chumrit/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nattnon chumrit" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nattanon_chumrit/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opech" height="30" width="40" /></a>
