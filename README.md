@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
-<image align="center"  alt="coding" src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/f00937685b75a5088e0e3316351b58e8af1fa7b5/github-contribution-grid-snake.svg">
+![snake animation](https://github.com/oPECHo/oPECHo/blob/output/github-contribution-grid-snake2.svg)
 
 
 
